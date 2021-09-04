@@ -1,0 +1,23 @@
+.cont{
+    height: max-content;
+    width: 42rem;
+    margin: auto;
+    border: 2px solid black;
+    text-align: center;
+    position: relative;
+    top: 6rem;
+    background: linear-gradient(rgb(48, 53, 47),white);
+
+}
+input{
+    height: 3rem;
+    border-radius: 3rem;
+    font-size: 1rem;
+    text-align: center;
+}
+input::placeholder{
+    text-align: center;
+}
+.showtime{
+    font-size: larger;
+}
